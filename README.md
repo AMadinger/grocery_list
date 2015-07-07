@@ -1,4 +1,4 @@
 # grocery_list
 Derek challenge
 
-Derek sucks
+list0104 is latest and has full functionality.
